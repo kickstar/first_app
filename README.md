@@ -1,3 +1,6 @@
+THIS is the first application for the (Ruby on rails t....)
+
+
 == README
 
 This README would normally document whatever steps are necessary to get the
